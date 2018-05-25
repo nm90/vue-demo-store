@@ -1,7 +1,7 @@
 import { gateway as MoltinGateway } from '@moltin/sdk'
 
 const Moltin = MoltinGateway({
-  client_id: 'j6hSilXRQfxKohTndUuVrErLcSJWP15P347L6Im0M4'
+  client_id: 'wb8Ra9frbnKRzZTz8yJLI7NLnEhr1uXGoV2cwqRE'
 })
 
 export default {
